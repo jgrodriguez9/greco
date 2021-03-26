@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Instalaciones Eléctricas",
+        "icon": "electricidad",
+        "categoria":[
+            {
+                "name": "Alta Tensión",
+                "subcategorias": [
+                    "Líneas aéreas.",
+                    "Líneas subterráneas.",
+                    "Subestaciones.",
+                    "Peritajes.",
+                    "Contrataciones ante la CFE. o .L. y F.C.",
+                    "Sistema de tierras."
+                ]
+            },
+            {
+                "name": "Media y Baja Tensión",
+                "subcategorias": [
+                    "Sistemas de fuerza.",
+                    "Sistemas de alumbrado.",
+                    "Sistemas de emergencia (Planta de emergencia).",
+                    "Sistemas de computación.",
+                    "Sistemas de tierras.",
+                    "Tableros de distribución.",
+                    "Centro de control de motores.",
+                    "Sistemas de energía ininterrumpida."
+                ]
+            },
+            {
+                "name": "Especiales",
+                "subcategorias": [
+                    "Sistemas telefónicos.",
+                    "Sistemas de sonido.",
+                    "Sistemas de T.V.",
+                    "Sistemas de circuito cerrado de T.V.",
+                    "Sistemas de detección de incendios.",
+                    "Sistemas de ahorro de energía eléctrica.",
+                    "Sistemas de alarma.",
+                    "Sistemas de pararrayos.",
+                    "Sistemas de intercomunicación",
+                    "Sistemas de control de acceso.",
+                    "Sistemas de monitoreo y control de equipos.",
+                    "Sistemas de cableado estructurado.",
+                    "Sistemas de canalizaciones de microondas."
+                ]
+            },
+            {
+                "name": "Automatización Sistema HAI DE LEVITÓN",
+                "subcategorias": [
+                    "Sistemas de iluminación.",
+                    "Sistemas de audio distribuido.",
+                    "Sistemas de circuito cerrado de T.V.",
+                    "Sistemas de detección de incendios.",
+                    "Sistemas de ahorro de energía eléctrica.",
+                    "Sistemas de alarma.",
+                    "Sistemas de intercomunicación",
+                    "Sistemas de control de acceso.",
+                    "Sistemas de control de aire acondicionado.",
+                    "Sistemas de control de albercas."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Instalaciones Sanitarias",
+        "icon": "sanitaria",
+        "categoria":[
+            {
+                "name": "",
+                "subcategorias": [
+                    "Red de alcantarillado para fraccionamiento.",
+                    "Instalaciones sanitarias de edificios.",
+                    "Desagües de aguas pluviajes.",
+                    "Cárcamos de aguas negras.",
+                    "Cárcamos de aguas pluviales.",
+                    "Equipos de bombeo para aguas negras.",
+                    "Equipos de bombeo para aguas pluviales."
+                ]
+            }
+            
+        ]
+    },
+    {
+        "name": "Instalaciones de Gas L.P",
+        "icon": "gas",
+        "categoria":[
+            {
+                "name": "",
+                "subcategorias": [
+                    "Instalaciones en edificios habitacionales.",
+                    "Instalaciones industriales."
+                ]
+            }
+            
+        ]
+    },
+    {
+        "name": "Instalaciones Hidráulicas",
+        "icon": "hidraulica",
+        "categoria":[
+            {
+                "name": "",
+                "subcategorias": [
+                    
+                ]
+            }
+            
+        ]
+    }
+]

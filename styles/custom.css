@@ -1,0 +1,13 @@
+.img-h80px{
+    height: 80px!important;
+}
+.img-h40px{
+    height: 40px!important;
+    transition: ease 1s;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.mb-10px{
+    padding-bottom: 10px!important;
+}
