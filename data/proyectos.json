@@ -1,0 +1,208 @@
+[
+    {
+        "name": "Playa Fairmont Mayakoba",
+        "img": "proyecto-mayakoba.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto",
+                "descripcion": "Eléctrico.",
+                "caracteristicas": []
+            },
+            {
+                "name": "Presupuestos",
+                "descripcion": "Eléctrico Hidráulico y Sanitario.",
+                "caracteristicas": []
+            },
+            {
+                "name": "Residencia de obra",
+                "descripcion": "Instalación eléctrica edificio principal, área técnica, restaurante de playa y restaurante la isla.",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "name": "Hotel Secret Maroma",
+        "img": "secret-maroma.jpg",
+        "categoria": [
+            {
+                "name": "Remodelación de áreas",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Coco café.",
+                    "Barefoodgrill.",
+                    "Oficinas administrativas.",
+                    "Gimnasio.",
+                    "Andadores."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Desire Perl",
+        "img": "desire-pearl.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrico",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Alumbrado.",
+                    "Contactos."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sanitaria."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SPA Secret Sanctuary CAP Cana. REP DOMINICANA",
+        "img": "sanctuary.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto de instalaciones",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Eléctrica.",
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Baja tensión.",
+                    "Media tensión.",
+                    "Telefonía, voz y datos, sonido, cctv, detección de humos y televisión.",
+                    "Hidrosanitaria.",
+                    "Sistema contra incendios.",
+                    "Riego.",
+                    "Aire acondicionado."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Proyecto Residencial GOLF & RESORTS MADERA 1",
+        "img": "sanctuary.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Alumbrado y Contactos.",
+                    "Baja tensión.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Hidrosanitaria.",
+                    "Riego."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Remodelación Disco BED Plaza FORUM",
+        "img": "disco-bed.jpg",
+        "categoria": [
+            {
+                "name": "Instalaciones",
+                "descripcion": "Eléctrica, Hidráulica y Sanitaria",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "name": "Proyecto SPA Royal Hideaway",
+        "img": "royal-hideaway.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Alumbrado y Contactos.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Hidrosanitaria."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Temptation Cancún",
+        "img": "temptation.jpg",
+        "categoria": [
+            {
+                "name": "Instalación eléctrica e hidrosanitaria de 16 jacuzzis en terrazas",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Instalaciones eléctricas, hidráulicas y sanitarias",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Áreas remodeladas",
+                "descripcion": "",
+                "caracteristicas": [
+                    "368 Habitaciones.",
+                    "Motor lobby.",
+                    "Lobby.",
+                    "Oficinas administrativas embarcadero.",
+                    "Paty O.",
+                    "SPA."
+                ]
+            },
+            {
+                "name": "Áreas nuevas",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Sunset and Ciggar Bar.",
+                    "Oficinas administrativas.",
+                    "Gimnasio.",
+                    "Restaurante Margaritas."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel JW Marriot",
+        "img": "jw-marriott.jpg",
+        "categoria": [
+            {
+                "name": "Remodelación lobby bar",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Instalaciones eléctricas e hidráulicas",
+                "descripcion": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "name": "Túnel de lavado lavandería Hotel Palladium Kantena",
+        "img": "palladium.jpg",
+        "categoria": [
+            {
+                "name": "Instalaciones electromecánicas",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Alumbrado y Contactos.",
+                    "Contactos.",
+                    "Extracción.",
+                    "Vapor.",
+                    "Aire comprimido",
+                    "Hidrosanitaria.",
+                    "Instalación de gas."
+                ]
+            }
+        ]
+    }
+]

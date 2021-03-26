@@ -1,13 +1,24 @@
+import { Col, Row } from 'react-bootstrap'
+import obras from '../data/obras.json'
+
 function CallUs(){
     return(
         <section id="cta" className="cta">
             <div className="container" data-aos="zoom-in">
 
                 <div className="text-center">
-                <h3>Call To Action</h3>
-                <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <a className="cta-btn" href="#">Call To Action</a>
+                    <h3 className="pb-3">OBRAS REALIZADAS</h3>
                 </div>
+
+                <Row className="text-white">
+                    {
+                        obras.map((item, i)=>(
+                            <Col xs="12" md="6" key={i} className="mb-4 text-center">
+                                <span className="d-block d-md-inline box-1 p-1 px-3 w-auto cursor-normal box-hover">{item}</span>
+                            </Col>                            
+                        ))
+                    }
+                </Row>
 
             </div>
         </section>

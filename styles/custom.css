@@ -11,3 +11,25 @@
 .mb-10px{
     padding-bottom: 10px!important;
 }
+.lh-12{
+    line-height: 1.2;
+}
+.box-1{
+    border: 2px solid #fff;
+}
+.cursor-normal{
+    cursor: context-menu;
+}
+.box-hover:hover{
+    background-color: #fff;
+    color: #000;
+    transition: ease .5s;
+}
+.img-proyecto{
+    height: 330px;
+    width: 330px;
+    object-fit: cover;
+}
+.font-size-09rem{
+    font-size: .9rem!important;
+}

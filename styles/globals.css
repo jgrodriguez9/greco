@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.95);
 }
 
 #header .logo {
@@ -1107,7 +1107,8 @@ section {
 }
 
 .team .member .member-info {
-  padding: 25px 15px;
+  padding: 15px;
+  height: 60px;
 }
 
 .team .member .member-info h4 {
