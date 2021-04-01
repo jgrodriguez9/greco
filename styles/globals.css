@@ -1145,10 +1145,11 @@ section {
   background: #fff;
 }
 
-.contact .info i {
+.contact .info i,
+.contact .info svg {
   font-size: 20px;
   background: #a83a2d;
-  color: #151515;
+  color: #fff;
   float: left;
   width: 44px;
   height: 44px;
@@ -1163,7 +1164,7 @@ section {
   padding: 0 0 0 60px;
   font-size: 22px;
   font-weight: 600;
-  margin-bottom: 5px;
+  margin-bottom: 0;
   color: #151515;
 }
 
@@ -1428,7 +1429,6 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: black;
-  padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
 }

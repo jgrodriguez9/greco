@@ -204,5 +204,530 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Parque acuático SEA ADVENTURE, Puerto Juárez",
+        "img": "parque-acuatico.jpg",
+        "categoria": [
+            {
+                "name": "Instalaciones eléctricas",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Hidrosanitarias",
+                "descripcion": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "name": "Jacuzzi Hotel Desire Pearl",
+        "img": "jacuzzi-desire.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Alumbrado.",
+                    "Contactos."
+                 ]
+            },
+            {
+                "name": "Hidrosanitarias",
+                "descripcion": "",
+                "caracteristicas": [
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sanitaria."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Residencial SR. Victoria Gonzalez. Punta Maroma",
+        "img": "res-punta-maroma.jpg",
+        "categoria": [
+            {
+                "name": "Instalaciones",
+                "descripcion": "Eléctricas, Hidráulicas y Sanitarias.",
+                "caracteristicas": [ ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Fairmont y Villas Fairmont Heritage Place",
+        "img": "hotel-fairmont.jpeg",
+        "categoria": [
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "Proyecto de instalaciones interconexión",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Sistema contra incendios.",
+                    "Equipo hidroneumático."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Dreams. Puerto Aventura",
+        "img": "hotel-dream.jpg",
+        "categoria": [
+            {
+                "name": "Remodelación de 304 habitaciones",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Pasillos, escaleras edificio central de 7 niveles",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Construcción del teatro",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Construcción de lavandería",
+                "descripcion": "",
+                "caracteristicas": []
+            },
+            {
+                "name": "Construcción de jacuzzi para 10 personas",
+                "descripcion": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "name": "Residencial Green 3 Bahía Príncipe & Residencial Golf & Sports",
+        "img": "res-bahia-principe.webp",
+        "categoria": [
+            {
+                "name": "Proyecto de instalaciones",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado y contactos.",
+                    "Baja tensión.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Hidrosanitaria.",
+                    "Riego."
+                ]
+            },
+            {
+                "name": "Realización de instalaciones",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado y contactos.",
+                    "Baja tensión.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Hidrosanitaria.",
+                    "Riego."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pent-House Acapulco. Edificios Lahia",
+        "img": "penthouse-acapulco.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "Remodelación",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Automatización sistema Hai de Levitón."
+                ]
+            }            
+        ]
+    },
+    {
+        "name": "Hotel Royal Solaris",
+        "img": "royal-solaris.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "Remodelación de 55 habitaciones",
+                "caracteristicas": [ 
+                    "Alumbrado y contactos.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Hidrosanitarias."
+                ]
+            }            
+        ]
+    },
+    {
+        "name": "Edificios diamante Isla Dorada",
+        "img": "isla-dorada.jpg",
+        "categoria": [
+            {
+                "name": "Remodelación departamento 402",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            }  ,
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Automatización sistema Hai de Levitón."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Instalación sanitaria."
+                ]
+            }            
+        ]
+    },
+    {
+        "name": "Fairmont Heritage Place Villas",
+        "img": "fairmont-place-villas.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto de instalaciones electromecánicas",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Detección de incendios.",
+                    "Alimentadores generales."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sanitaria.",
+                    "Instalación pluvial.",
+                    "Sistema contra incendios.",
+                    "Albercas."
+                ]
+            },
+            {
+                "name": "Infraestructura de conjunto",
+                "descripcion": "",
+                "caracteristicas": []
+            }          
+        ]
+    },
+    {
+        "name": "Restaurante Aphrodite. Hotel Desire Pearl",
+        "img": "restaurante-aphrodite.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto de remodelación",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Alimentadores generales."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sanitaria.",
+                    "Guía mecánicas."
+                ]
+            }      
+        ]
+    },
+    {
+        "name": "Restaurante Porfirios. Canún",
+        "img": "restaurante-porfirios.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto de instalaciones electromecánicas",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión.",
+                    "Alimentadores generales."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sanitaria.",
+                    "Instalación pluvial.",
+                    "Guía mecánicas.",
+                    "Sistema contra incendios.",
+                    "Estanques."
+                ]
+            },
+            {
+                "name": "Infraestructura de conjunto",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Hidrosanitaria."
+                ]
+            },
+            {
+                "name": "Sanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Instalación pluvial."
+                ]
+            },
+            {
+                "name": "Instalaciones eléctricas",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado exterior."
+                ]
+            }    
+        ]
+    },
+    {
+        "name": "Remodelación oficinas corporativas ATELIER",
+        "img": "atelier.jpg",
+        "categoria": [
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Sanitaria.",
+                    "Ventilación."
+                ]
+            },
+            {
+                "name": "Aire acondicionado",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Inyección y retorno de aire acondicionado.",
+                    "Extracción de aire."
+                ]
+            },
+            {
+                "name": "Acabados",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Tablaroca.",
+                    "Pasta y pintura.",
+                    "Carpintaría.",
+                    "Puertas de cristal y aluminio"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Residencial Las Olas. Zona hotelera",
+        "img": "las-olas.jpg",
+        "categoria": [
+            {
+                "name": "Automatización departamento 1205",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Automatización sistema Hai de Levitón.",
+                    "Alumbrado.",
+                    "Sistema de audio distribuido.",
+                    "Control de acceso.",
+                    "Sistema de cámaras CCTV.",
+                    "Control de aire acondicionado.",
+                    "Control de cortinas eléctricas."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oficinas corporativas Sierra",
+        "img": "oficina-sierra.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto y Obra",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Sanitaria.",
+                    "Ventilación."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Casa Loreto 98. Puerto Cancún",
+        "img": "casa-loreto.jpg",
+        "categoria": [
+            {
+                "name": "Proyecto y Obra",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Telefonía, voz y datos, sonido y televisión."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Instalación sanitaria.",
+                    "Instalación pluvial.",
+                    "Instalación de riego."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Casa Faisanes Lagos del Sol",
+        "img": "casa-faisanes.jpg",
+        "categoria": [
+            {
+                "name": "Obra",
+                "descripcion": "",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Alimentadores.",
+                    "Cuadros de carga.",
+                    "Diagrama unifilares.",
+                    "Telefonía, voz y datos, sonido y televisión."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Instalación sanitaria.",
+                    "Instalación pluvial.",
+                    "Instalación de riego."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hotel Temptation. Cancún",
+        "img": "hotel-temptation.jpg",
+        "categoria": [
+            {
+                "name": "Remodelación de 439 habitaciones",
+                "descripcion": "Proyecto y obra",
+                "caracteristicas": [ ]
+            },
+            {
+                "name": "Eléctrica",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Alumbrado.",
+                    "Contactos.",
+                    "Alimentadores elétricos baja media tensión.",
+                    "Telefonía, voz y datos, sonido y televisión."
+                ]
+            },
+            {
+                "name": "Hidrosanitaria",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Agua fría.",
+                    "Agua caliente.",
+                    "Sistema contra incendios.",
+                    "Instalación sanitaria.",
+                    "Instalación pluvial."
+                ]
+            },
+            {
+                "name": "Coordinación de instalaciones",
+                "descripcion": "",
+                "caracteristicas": [ 
+                    "Aire acondicionado.",
+                    "Luz y sonido.",
+                    "Albercas.",
+                    "Gas."
+                ]
+            }
+        ]
     }
 ]

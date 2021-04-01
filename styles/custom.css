@@ -33,3 +33,12 @@
 .font-size-09rem{
     font-size: .9rem!important;
 }
+.text-red{
+    color: #a83a2d;
+}
+.text-blue{
+    color: #314c77;
+}
+.font-1-5rem{
+    font-size: 1.5rem!important;
+}

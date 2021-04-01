@@ -80,7 +80,7 @@ function OurServices(){
                     
                 </Row>
             </div>
-            </section>
+        </section>
     )
 }
 

@@ -2,6 +2,7 @@ import Head from "next/head"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Image } from "react-bootstrap";
 import { useEffect, useState } from "react";
+import moment from "moment";
 
 export const siteTitle = 'Greco'
 function Layout({children}){
@@ -123,20 +124,20 @@ function Layout({children}){
 
                             <div className="col-lg-3 col-md-6">
                                 <div className="footer-info">
-                                    <h3>Gp<span>.</span></h3>
+                                    <h3>GRECO<span>.</span></h3>
                                     <p>
-                                        A108 Adam Street <br />
-                                        NY 535022, USA<br /><br />
-                                        <strong>Phone:</strong> +1 5589 55488 55<br />
-                                        <strong>Email:</strong> info@example.com<br />
+                                        Calle arbolada MZA 16 Lote 1 <br />
+                                        Fraccionamiento Jardines del Sur 1, Cancún, México.<br /><br />
+                                        <strong>Teléfono:</strong> 998 214 5068<br />
+                                        <strong>Email:</strong> sergio.navarro@prodigy.net.mx<br />
                                     </p>
-                                    <div className="social-links mt-3">
+                                    {/* <div className="social-links mt-3">
                                         <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
                                         <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
                                         <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
                                         <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
                                         <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                             <div className="col-lg-2 col-md-6 footer-links">
@@ -172,10 +173,7 @@ function Layout({children}){
                     </div>
                     <div className="container">
                         <div className="copyright">
-                            &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
-                        </div>
-                        <div className="credits">
-                            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                            &copy; Copyright <strong><span>GRECO</span></strong>. Todos los derechos reservados {moment().format('YYYY')}
                         </div>
                     </div>
                 </div>
