@@ -490,6 +490,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
     line-height: 24px;
   }
+  #hero .icon-box h3{
+    font-size: 15px;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1577,7 +1580,7 @@ section {
 }
 
 .carousel-item-padding-20-px{
-  padding: 0 20px;
+  padding: 0 10px;
 }
 .w-300{
   width: 300px;
